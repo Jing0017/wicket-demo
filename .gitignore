@@ -36,4 +36,3 @@ buildNumber.properties
 *.iws
 *.iml
 *.ipr
-src/main/test/
